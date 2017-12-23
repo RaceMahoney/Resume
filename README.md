@@ -1,2 +1,2 @@
 # Resume
-PDF and Latex source of resume
+PDF of resume
