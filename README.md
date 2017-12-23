@@ -1,2 +1,0 @@
-# Resume
-PDF of resume
